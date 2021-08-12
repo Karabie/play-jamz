@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/play-jamz/static/css/main.a617e044.chunk.css",
+    "main.js": "/play-jamz/static/js/main.8dff92fa.chunk.js",
+    "main.js.map": "/play-jamz/static/js/main.8dff92fa.chunk.js.map",
+    "runtime-main.js": "/play-jamz/static/js/runtime-main.048fca6c.js",
+    "runtime-main.js.map": "/play-jamz/static/js/runtime-main.048fca6c.js.map",
+    "static/js/2.218a96bd.chunk.js": "/play-jamz/static/js/2.218a96bd.chunk.js",
+    "static/js/2.218a96bd.chunk.js.map": "/play-jamz/static/js/2.218a96bd.chunk.js.map",
+    "static/js/3.ff523b82.chunk.js": "/play-jamz/static/js/3.ff523b82.chunk.js",
+    "static/js/3.ff523b82.chunk.js.map": "/play-jamz/static/js/3.ff523b82.chunk.js.map",
+    "index.html": "/play-jamz/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/play-jamz/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.218a96bd.chunk.js.LICENSE.txt": "/play-jamz/static/js/2.218a96bd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/play-jamz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.048fca6c.js",
+    "static/js/2.218a96bd.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8dff92fa.chunk.js"
+  ]
+}
